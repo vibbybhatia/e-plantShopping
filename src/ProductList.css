@@ -250,3 +250,10 @@ body {
         text-align: center; /* Align text to the center */
       }
   }
+  .cart-count{
+    position: relative;
+    font-size: 20px;
+    align-self: center;
+    justify-self: center;
+    right: 40px;
+  }

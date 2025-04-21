@@ -241,3 +241,7 @@
     margin-top: 40px;
   }
   
+    .disabled {
+    background-color: grey; /* Grey when product is added */
+    opacity: 0.4;
+  }
